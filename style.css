@@ -870,6 +870,15 @@ section{
 
 }
 
+@media screen and (min-width: 360px) and (max-width: 538px) {
+    .about .about-content .right .text{
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+}
+
 @media screen and (min-width: 360px) and (max-width: 640px) {
     .navbar .logo{
         flex-direction: row;
