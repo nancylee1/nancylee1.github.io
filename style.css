@@ -1003,15 +1003,6 @@ section{
     }
     .service h4::after{
         display: none;
-        /* content: '';
-        max-width: 40px;
-        height: 30px;
-        background: linear-gradient(to right, white, lightgray);
-        position: absolute;
-        right: -5px;
-        top: -5px;
-        z-index: -1;
-        flex-direction: column; */
     }
     .service h4::before{
         content: '';
