@@ -648,10 +648,10 @@ html{
     height: 13px;
     width: 13px;
     margin: 0 5px;
-    background: #07080B !important;
+    background: #dadde1 !important;
     outline: none !important;
     border-radius: 50%;
-    border: 2px solid #07080B;
+    border: 2px solid pink;
     transition: all 0.3s ease;
 }
 
