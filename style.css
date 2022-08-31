@@ -609,7 +609,9 @@ html{
 .projects .carousel .card:hover{
     background: rgb(255, 211, 215);
     color: black;
+
 }
+
 .projects .carousel .card .box{
     display: flex;
     flex-direction: column;
